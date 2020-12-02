@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e599e20d908da90c8ef1fea5fc677eb24b3436ae",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-12-02 17:26:33",
+    "files": 2,
+    "merge": false,
+    "message": "update cran comments and codemeta.json\n"
+  },
+  "remote": "https://github.com/ropensci/jaod",
+  "pkg": "jaod"
+}

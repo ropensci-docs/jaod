@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/jaod/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/jaod/reference/jaod-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/jaod/reference/jaod_article.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/jaod/reference/jaod_article_search.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/jaod/reference/jaod_journal.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/jaod/reference/jaod_journal_search.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/jaod/articles/jaod.html</loc>
+  </url>
+</urlset>
